@@ -5,7 +5,7 @@ import lombok.Data;
 /**
  * @author: dengxin.chen
  * @date: 2019-09-17 10:51
- * @description: 二叉查找树
+ * @description: 二叉查找树 
  */
 public class BST {
 
